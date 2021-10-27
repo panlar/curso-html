@@ -1,0 +1,14 @@
+{
+  "short_name": "HTML Course",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "html_logo.svg",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e34f26",
+  "background_color": "#fafafa"
+}
