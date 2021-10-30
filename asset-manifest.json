@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/curso-html/static/css/main.5875d1d8.chunk.css",
-    "main.js": "/curso-html/static/js/main.ed5db750.chunk.js",
-    "main.js.map": "/curso-html/static/js/main.ed5db750.chunk.js.map",
+    "main.css": "/curso-html/static/css/main.e4467b1f.chunk.css",
+    "main.js": "/curso-html/static/js/main.63fcb50b.chunk.js",
+    "main.js.map": "/curso-html/static/js/main.63fcb50b.chunk.js.map",
     "runtime-main.js": "/curso-html/static/js/runtime-main.ec326afb.js",
     "runtime-main.js.map": "/curso-html/static/js/runtime-main.ec326afb.js.map",
     "static/js/2.974736e0.chunk.js": "/curso-html/static/js/2.974736e0.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.085685a5.chunk.js": "/curso-html/static/js/3.085685a5.chunk.js",
     "static/js/3.085685a5.chunk.js.map": "/curso-html/static/js/3.085685a5.chunk.js.map",
     "index.html": "/curso-html/index.html",
-    "static/css/main.5875d1d8.chunk.css.map": "/curso-html/static/css/main.5875d1d8.chunk.css.map",
+    "static/css/main.e4467b1f.chunk.css.map": "/curso-html/static/css/main.e4467b1f.chunk.css.map",
     "static/js/2.974736e0.chunk.js.LICENSE.txt": "/curso-html/static/js/2.974736e0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/curso-html/static/media/JetBrainsMonoNL-Regular.11efd6d6.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.ec326afb.js",
     "static/js/2.974736e0.chunk.js",
-    "static/css/main.5875d1d8.chunk.css",
-    "static/js/main.ed5db750.chunk.js"
+    "static/css/main.e4467b1f.chunk.css",
+    "static/js/main.63fcb50b.chunk.js"
   ]
 }

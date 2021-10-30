@@ -9,5 +9,5 @@ Para crear un nuevo archivo damos clic en la opción de crear nuevo archivo, a e
 Con lo que tu visualizador de archivos quedaría algo así:
 ```text
 > carpeta raiz
-  > index.html
+| - index.html
 ```
