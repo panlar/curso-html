@@ -6,7 +6,7 @@ En español viewport significa *ventana gráfica*, en el ámbito de desarrollo w
 
 <img loading="lazy" src="https://i.postimg.cc/5y3LHKyX/viewport.png" alt="viewport" title="La parte clara es el viewport">
 
-Ahora que ya sabes que es el viewport y lo has visto, tratare de explicarte cual es la función de esta etiqueta, y, si al final de este tema no sientes que no tienes idea de lo que se trata ya que es un tema más complicado de explicar que de entender, puedes ir a este artículo de <a href="https://desarrolloweb.com/articulos/etiqueta-meta-viewport.html" target="_blank"><img src="link.svg"> desarrolloweb.com</a> que esta muy bien explicado.
+Ahora que ya sabes que es el viewport y lo has visto, tratare de explicarte cual es la función de esta etiqueta, y, si al final de este tema no sientes que no tienes idea de lo que se trata ya que es un tema más complicado de explicar que de entender, puedes ir a este artículo de <a href="https://desarrolloweb.com/articulos/etiqueta-meta-viewport.html" target="_blank"><img src="./img/link.svg"> desarrolloweb.com</a> que esta muy bien explicado.
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

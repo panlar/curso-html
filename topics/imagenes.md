@@ -20,10 +20,10 @@ En este tema probaremos los 4 formatos, para ello crearemos una nueva carpeta de
 
 Dentro de ella guardaremos estas cuatro imagenes que puedes descargar dando clic en los siguientes enlaces.
 
-- <a download href="./anochecer.png"><img src="./download-arrow.svg"> anochecer.png</a>
-- <a download href="./perro.jpg"><img src="./download-arrow.svg"> perro.jpg</a>
-- <a download href="./web_development_meme.gif"><img src="./download-arrow.svg"> web-development-meme.gif</a>
-- <a download href="./logo_html.svg"><img src="./download-arrow.svg"> logo_html.svg</a>
+- <a download href="./img/anochecer.png"><img src="./img/download-arrow.svg"> anochecer.png</a>
+- <a download href="./img/perro.jpg"><img src="./img/download-arrow.svg"> perro.jpg</a>
+- <a download href="./img/web_development_meme.gif"><img src="./img/download-arrow.svg"> web-development-meme.gif</a>
+- <a download href="./img/logo_html.svg"><img src="./img/download-arrow.svg"> logo_html.svg</a>
 
 Con lo que la estructura quedaria asi:
 
@@ -45,9 +45,14 @@ Y nuestro codigo quedaria asi:
 ```html
 <img src="./assets/img/anochecer.png" alt="anochecer">
 <img src="./assets/img/perro.jpg" alt="perro negro">
-<img src="./assets/img/web-development-meme.gif" alt="meme de desarrollo web">
+<img src="./assets/img/web_development_meme.gif" alt="meme de desarrollo web">
 <img src="./assets/img/logo_html.svg" alt="logo de html">
 ```
+
+<div class="iframe">
+<div class="iframe-title">Resultado</div>
+<iframe src="./iframes/imagenes.html"></iframe>
+</div>
 
 Y como puedes ver se muestran todas las imagenes, unas mas grandes que las otras, porque el navegador poner por defecto el ancho que tiene la imagen, pero a diferencia de las demas puedes notar que el ultimo tiene como ancho el 100% del contenedor, ya que este es un formato especial llamado <code>SVG</code> que son las siglas del ingles <span class="emphasis">Scalable Vectors Graphic</span> del cual hablaremos en el siguiente tema.
 
@@ -65,3 +70,8 @@ img {
   automatico para que no se deforme la imagen.
 */
 ```
+
+<div class="pagination">
+  <a href="#/scripts-en-html" class="pagination-button">← Scripts en HTML</a>
+  <a href="#/vectores" class="pagination-button">Vectores →</a>
+</div>

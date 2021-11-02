@@ -49,17 +49,17 @@ En este curso yo trabajare con el editor Visual Studio Code (VSCode), pero tú p
 
 Aquí te dejo los enlaces a la pagina de descarga de estos cuatro editores.
 
-- <a href="https://code.visualstudio.com/Download" target="_blank"><img src="link.svg"> Visual Studio Code</a>
-- <a href="https://www.vim.org/download.php" target="_blank"><img src="link.svg"> Vim</a>
-- <a href="https://atom.io/" target="_blank"><img src="link.svg"> Atom</a>
-- <a href="http://www.sublimetext.com/download" target="_blank"><img src="link.svg"> Sublime Text</a>
+- <a href="https://code.visualstudio.com/Download" target="_blank"><img src="./img/link.svg"> Visual Studio Code</a>
+- <a href="https://www.vim.org/download.php" target="_blank"><img src="./img/link.svg"> Vim</a>
+- <a href="https://atom.io/" target="_blank"><img src="./img/link.svg"> Atom</a>
+- <a href="http://www.sublimetext.com/download" target="_blank"><img src="./img/link.svg"> Sublime Text</a>
 
 
 Si tu trabajaras con VSCode te dejo aquí la lista de extensiones o plugins con una pequeña descripción, que te serán de gran utilidad en el desarrollo de este curso.
 
 Por último, te dejo los enlaces que se utilizaran en todo el curso.
 
-- <a href="https://emmet.io/" target="_blank"><img src="link.svg"> Emmet.io</a>
-- <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="link.svg"> Documentación HTML</a>
-- <a href="https://htmlreference.io/" target="_blank"><img src="link.svg"> HTML Reference</a>
-- <a href="https://desarrolloweb.com/articulos/11.php" target="_blank"><img src="link.svg"> Caracteres Especiales HTML</a>
+- <a href="https://emmet.io/" target="_blank"><img src="./img/link.svg"> Emmet.io</a>
+- <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="./img/link.svg"> Documentación HTML</a>
+- <a href="https://htmlreference.io/" target="_blank"><img src="./img/link.svg"> HTML Reference</a>
+- <a href="https://desarrolloweb.com/articulos/11.php" target="_blank"><img src="./img/link.svg"> Caracteres Especiales HTML</a>

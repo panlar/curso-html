@@ -14,7 +14,7 @@ También existe una página muy buena llamada **HTMLReference** donde se listan 
 
 De ahora en adelante te dejaré un link a esta documentación de Mozilla de cada tema, pero igualmente aquí están los enlaces a los consorcios.
 
-- <a href="https://developer.mozilla.org/es/" target="_blank"><img src="link.svg"> MDN</a>
-- <a href="https://html.spec.whatwg.org/" target="_blank"><img src="link.svg"> WhatWG</a>
-- <a href="https://www.w3.org/html/" target="_blank"><img src="link.svg"> W3C</a>
-- <a href="https://htmlreference.io/" target="_blank"><img src="link.svg"> HTMLReference</a>
+- <a href="https://developer.mozilla.org/es/" target="_blank"><img src="./img/link.svg"> MDN</a>
+- <a href="https://html.spec.whatwg.org/" target="_blank"><img src="./img/link.svg"> WhatWG</a>
+- <a href="https://www.w3.org/html/" target="_blank"><img src="./img/link.svg"> W3C</a>
+- <a href="https://htmlreference.io/" target="_blank"><img src="./img/link.svg"> HTMLReference</a>
