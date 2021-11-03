@@ -1,9 +1,9 @@
 {
   "short_name": "Curso html",
-  "name": "Create React App Sample",
+  "name": "Curso HTML5 Moderno desde 0",
   "icons": [
     {
-      "src": "html_logo.svg",
+      "src": "./img/html_logo.svg",
       "type": "image/svg"
     }
   ],
