@@ -69,7 +69,7 @@ Por defecto estos dialogo estan ocultos y para mostrarlo necesitan tener el atri
 <iframe src="./iframes/interactivos3.html"></iframe>
 </div>
 
-Como puedes ver, pues es una simple caja centrada y con un border, como mencione antes, es experimental y no se recomienda su uso aun, es preferible hacerlo con los otros elementos HTML y CSS, ya que puedes hacer muchas cosas mas.
+Como puedes ver, pues es una simple caja centrada y con un borde, como mencione antes, es experimental y no se recomienda su uso aun, es preferible hacerlo con los otros elementos HTML y CSS, ya que puedes hacer muchas cosas mas.
 
 <div class="pagination">
   <a href="#/enlaces-y-protocolos-especiales" class="pagination-button">← Enlaces y protocolos especiales</a>

@@ -52,7 +52,7 @@ Existen ciertos atributos para manipular el orden y la enumeracion de las listas
 
 <div class="iframe">
 <div class="iframe-title">Resultado</div>
-<iframe src="./iframes/ol4.html"></iframe>
+<iframe src="./iframes/ol3.html"></iframe>
 </div>
 
 - <code>type</code> : recibe como valores una lista de caracteres que les indican que tipo de numeracion llevara la lista.
