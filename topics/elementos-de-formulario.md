@@ -222,3 +222,19 @@ Con este codigo le estamos diciendo que el <code>value</code> (*valor*) del elem
 <div class="iframe-title">Resultado</div>
 <iframe src="./iframes/formularios7.html"></iframe>
 </div>
+
+<code><progress></progress></code> : <span class="emphasis">Progreso</span> | Se utiliza para ver el progreso de una tarea.
+
+```html
+<progress max="100" value="50"></progress>
+```
+
+<div class="iframe">
+<div class="iframe-title">Resultado</div>
+<iframe src="./iframes/formularios8.html"></iframe>
+</div>
+
+<div class="pagination">
+  <a href="#/iframes" class="pagination-button">← Iframes</a>
+  <a href="#/atributos-de-input-y-formulario" class="pagination-button">Atributos de input y formulario →</a>
+</div>

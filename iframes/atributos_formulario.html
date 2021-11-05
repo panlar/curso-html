@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <h2>Formulario con el <code>method="GET"</code></h2>
+    <form action="https://panlar.github.io/blog" target="_blank" method="GET">
+      <input type="hidden" name="text" value="hola" />
+      <input type="submit" />
+    </form>
+
+    <h2>Formulario con el <code>method="POST"</code></h2>
+    <form action="https://panlar.github.io/blog" target="_blank" method="POST">
+      <input type="hidden" name="text" value="hola" />
+      <input type="submit" />
+    </form>
+
+    <h2>Formulario con el <code>method="GET"</code> sin <code>action</code></h2>
+    <form method="GET">
+      <input type="hidden" name="text" value="hola" />
+      <input type="submit" />
+    </form>
+
+    <h2>
+      Formulario con el <code>method="POST"</code> sin <code>action</code>
+    </h2>
+    <form method="POST">
+      <input type="hidden" name="text" value="hola" />
+      <input type="submit" />
+    </form>
+  </body>
+</html>
