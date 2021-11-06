@@ -6,6 +6,14 @@ No es obligatorio, pero si es una **buena práctica** que el máximo de caracter
 
 Esta etiqueta es nueva como ves, recibe como valor de <span class="code">&lt;name></span> la palabra <span class="code">&lt;description></span> y como valor de <span class="code">&lt;content></span> la <span class="emphasis">descripción de este curso</span>, y pues su funcionalidad es que los **buscadores muestren debajo del título esta descripción** para que antes de entrar a esa página sepamos que encontraremos al entrar.
 
-<img loading="lazy" src="https://i.postimg.cc/DfdqY067/titulo-y-descripcion.png" alt="Titulo y Descripcion" title="Titulo y Descripcion del sitio jonmircha.com">
+<figure>
+<img src="./img/title-description.svg" alt="Titulo y Descripcion" title="Titulo y Descripcion resultado de un buscador">
+<figcaption>Etiquetas de linea y de bloque</figcaption>
+</figure>
 
 Estas dos etiquetas son muy importantes dentro de HTML como pudimos ver, si una página no las contiene, **no podrá ser mostrada en los resultados de búsqueda**.
+
+<div class="pagination">
+  <a href="#/meta-etiqueta-viewport" class="pagination-button">← Meta etiqueta viewport</a>
+  <a href="#/encabezados" class="pagination-button">Encabezados →</a>
+</div>

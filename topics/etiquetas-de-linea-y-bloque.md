@@ -62,4 +62,12 @@ Como ves son muchas las etiquetas que existen, y faltan, pero no te preocupes, a
 
 Aquí te dejo una imagen de ejemplo mostrando la diferencia entre etiquetas de **línea** y de **bloque**.
 
-<img loading="lazy" src="https://i.postimg.cc/Bbs2nfSW/linea-bloque.png" alt="Etiquetas de línea y de bloque" title="Ejemplo de línea y de bloque">
+<figure>
+<img src="./img/line-block.svg" alt="Etiquetas de línea y de bloque" title="Ejemplo de línea y de bloque">
+<figcaption>Etiquetas de linea y de bloque</figcaption>
+</figure>
+
+<div class="pagination">
+  <a href="#/etiquetas-semanticas-estructurales" class="pagination-button">← Etiquetas Semánticas Estructurales</a>
+  <a href="#/estilos-en-html" class="pagination-button">Estilos en HTML →</a>
+</div>
